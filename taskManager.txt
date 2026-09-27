@@ -1,0 +1,12 @@
+title programmieren1
+prioritaet hoch
+erledigt True
+matrikel 0
+title Mathematik
+prioritaet hoch
+erledigt True
+matrikel 1
+title Theoretische Informatik
+prioritaet niedrig
+erledigt False
+matrikel 2
